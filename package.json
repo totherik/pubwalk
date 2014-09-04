@@ -1,0 +1,20 @@
+{
+  "name": "pubwalk",
+  "version": "0.1.0",
+  "description": "Go for a walk. For beer.",
+  "author": "Beer drinker.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test _mocha test/",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.3.0",
+    "kraken-js": "^1.0.1",
+    "pine": "^1.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.0",
+    "supertest": "^0.9.0"
+  }
+}

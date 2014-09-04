@@ -1,0 +1,10 @@
+{
+    "pine": {
+        "transports": {
+            "console": {
+                "level": "debug",
+                "silent": true
+            }
+        }
+    }
+}

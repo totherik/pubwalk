@@ -1,0 +1,28 @@
+{
+    "pine": {},
+
+    "middleware": {
+
+        "logger": {
+            "enabled": false
+        },
+
+        "fileNotFound": {
+            "enabled": true,
+            "priority": 130,
+            "module": {
+                "name": "path:./middleware/fourohfour"
+            }
+        },
+
+        "serverError": {
+            "enabled": true,
+            "priority": 140,
+            "module": {
+                "name": "path:./middleware/fivehundo"
+            }
+        }
+
+    }
+
+}
