@@ -42,6 +42,7 @@ server.on('request', function proxy(req, res) {
     options.protocol = 'https:';
     options.hostname = HOSTNAME;
     options.path = path.format();
+    options.agent = false;
 
     child = Https.request(options, function (child_res) {
 
