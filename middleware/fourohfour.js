@@ -7,8 +7,6 @@ module.exports = function () {
     var log = pine();
 
     return function fourohfour(req, res, _) {
-        log.info(req.originalUrl || req.url, 404);
-
         res.statusCode = 404;
         res.format({
             json: function () {
@@ -21,6 +19,8 @@ module.exports = function () {
                 res.send('<p>Not found.</p>');
             }
         });
+
+        log.warn(req.originalUrl || req.url, 404);
     };
 
 };
