@@ -1,7 +1,22 @@
 {
     "pine": {},
 
+    "mongodb": {
+        "url": "mongodb://localhost:27017/default"
+    },
+
     "middleware": {
+
+        "db": {
+            "enabled": true,
+            "priority": 10,
+            "module": {
+                "name": "path:./middleware/db",
+                "arguments": [{
+                    "datasource": "config:mongodb"
+                }]
+            }
+        },
 
         "logger": {
             "enabled": false
