@@ -1,10 +1,7 @@
 'use strict';
 
 var pine = require('pine');
-var Levee = require('levee');
-var Promise = require('Promise');
 var fastpath = require('fastpath');
-var Get = require('../lib/http_get');
 
 
 module.exports = function (router) {
