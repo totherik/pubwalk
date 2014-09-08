@@ -5,6 +5,14 @@
         "url": "mongodb://localhost:27017/default"
     },
 
+    "foursquare": {
+        "url": "http://localhost:54699"
+    },
+
+    "untappd": {
+        "url": "http://localhost:54734"
+    },
+
     "middleware": {
 
         "db": {
@@ -14,6 +22,30 @@
                 "name": "path:./middleware/db",
                 "arguments": [{
                     "datasource": "config:mongodb"
+                }]
+            }
+        },
+
+        "foursquare": {
+            "enabled": true,
+            "priority": 11,
+            "module": {
+                "name": "path:./middleware/fetch",
+                "arguments": [{
+                    "propertyName": "foursquare",
+                    "hostname": "config:foursquare.url"
+                }]
+            }
+        },
+
+        "untappd": {
+            "enabled": true,
+            "priority": 11,
+            "module": {
+                "name": "path:./middleware/fetch",
+                "arguments": [{
+                    "propertyName": "untappd",
+                    "hostname": "config:untappd.url"
                 }]
             }
         },

@@ -48,6 +48,7 @@ server.on('request', function proxy(req, res) {
 
         log.info(Morgan['remote-addr'](req, child_res), '"' + Morgan['method'](req, child_res), Morgan['url'](req, child_res), 'HTTP/' + Morgan['http-version'](req, child_res) + '"', child_res.statusCode);
 
+        res.writeHead(child_res.statusCode, child_res.headers);
         child_res.pipe(res, {
             end: true
         });

@@ -1,0 +1,2701 @@
+{
+    "meta": {
+        "code": 200
+    },
+    "response": {
+        "suggestedFilters": {
+            "header": "Tap to show:",
+            "filters": [
+                {
+                    "name": "Open now",
+                    "key": "openNow"
+                }
+            ]
+        },
+        "suggestedRadius": 30000,
+        "headerLocation": "Current map view",
+        "headerFullLocation": "Current map view",
+        "headerLocationGranularity": "unknown",
+        "query": "beer",
+        "totalResults": 27,
+        "suggestedBounds": {
+            "ne": {
+                "lat": 52.28701119580535,
+                "lng": -6.820026838995585
+            },
+            "sw": {
+                "lat": 52.15520028922913,
+                "lng": -7.244807010468693
+            }
+        },
+        "groups": [
+            {
+                "type": "Recommended Places",
+                "name": "recommended",
+                "items": [
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4be5bb95bcef2d7fe43a04e5",
+                            "name": "Victoria House (The Vic)",
+                            "contact": {
+                                "phone": "+35351390338",
+                                "formattedPhone": "+353 51 390 338"
+                            },
+                            "location": {
+                                "address": "Queen St",
+                                "lat": 52.161500688089944,
+                                "lng": -7.1505693434991935,
+                                "distance": 11971,
+                                "cc": "IE",
+                                "city": "Tramore",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Queen St",
+                                    "Tramore",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 250,
+                                "usersCount": 70,
+                                "tipCount": 5
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "rating": 7.7,
+                            "ratingSignals": 9,
+                            "hours": {
+                                "status": "Open until 1:00am",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 16,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "52df16c2498ea7145a6a0ea5",
+                                "createdAt": 1390352066,
+                                "text": "If ya fancy something different and tasty, try one of the Galway Bay Brewery bottle conditioned beers they have stocked. Pleasant for at least 3 of the senses.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/52df16c2498ea7145a6a0ea5",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "76446102",
+                                    "firstName": "Gearóid",
+                                    "lastName": "Mac An Ultaigh",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/76446102-KZ25O4GRPJLK4WKV.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4be5bb95bcef2d7fe43a04e5-0"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b899439f964a5205a4332e3",
+                            "name": "Geoff's Café Bar",
+                            "contact": {
+                                "phone": "+35351874787",
+                                "formattedPhone": "+353 51 874 787"
+                            },
+                            "location": {
+                                "address": "8-9 John St",
+                                "lat": 52.258103,
+                                "lng": -7.111862,
+                                "distance": 3616,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "8-9 John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d16d941735",
+                                    "name": "Café",
+                                    "pluralName": "Cafés",
+                                    "shortName": "Café",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/cafe_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 692,
+                                "usersCount": 231,
+                                "tipCount": 16
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "rating": 7.9,
+                            "ratingSignals": 27,
+                            "hours": {
+                                "status": "Likely open",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 21,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4ccb20f2ee23a143543515a8",
+                                "createdAt": 1288380658,
+                                "text": "Agreed best gourmet burgers.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4ccb20f2ee23a143543515a8",
+                                "likes": {
+                                    "count": 3,
+                                    "groups": [ ],
+                                    "summary": "3 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2306856",
+                                    "firstName": "Maleck",
+                                    "lastName": "Thirteen",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4b899439f964a5205a4332e3-1"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "527b0fb9498ede09e67e0707",
+                            "name": "The Reg",
+                            "contact": {
+                                "phone": "+35351583000",
+                                "formattedPhone": "+353 51 583 000",
+                                "twitter": "theregwaterford"
+                            },
+                            "location": {
+                                "address": "2 The Mall",
+                                "lat": 52.2603287386148,
+                                "lng": -7.10541307926178,
+                                "distance": 3232,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "2 The Mall",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d155941735",
+                                    "name": "Gastropub",
+                                    "pluralName": "Gastropubs",
+                                    "shortName": "Gastropub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/gastropub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 135,
+                                "usersCount": 60,
+                                "tipCount": 3
+                            },
+                            "url": "http://www.thereg.ie",
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "rating": 7.2,
+                            "ratingSignals": 11,
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 34,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "5337664b11d2cfa327a83413",
+                                "createdAt": 1396139595,
+                                "text": "Gluten free beer available (Estrella Daura).",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5337664b11d2cfa327a83413",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "7334566",
+                                    "firstName": "Colin",
+                                    "lastName": "Coyle",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/FP0VWM1NU4SI0KFT.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-527b0fb9498ede09e67e0707-2"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4bbef9e298f495212aefd163",
+                            "name": "Revolution",
+                            "contact": {
+                                "phone": "+35351844444",
+                                "formattedPhone": "+353 51 844 444",
+                                "twitter": "revolutionbar"
+                            },
+                            "location": {
+                                "address": "John St",
+                                "lat": 52.25752624706202,
+                                "lng": -7.1118879318237305,
+                                "distance": 3609,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d155941735",
+                                    "name": "Gastropub",
+                                    "pluralName": "Gastropubs",
+                                    "shortName": "Gastropub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/gastropub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 236,
+                                "usersCount": 102,
+                                "tipCount": 10
+                            },
+                            "url": "http://www.revolutionwaterford.com",
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "rating": 6.1,
+                            "ratingSignals": 12,
+                            "hours": {
+                                "status": "Open until 2:30am",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 11,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4d39c26cbf6d54817b84c6e1",
+                                "createdAt": 1295630956,
+                                "text": "All drinks £3.50 at escape every night this week!!!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d39c26cbf6d54817b84c6e1",
+                                "likes": {
+                                    "count": 4,
+                                    "groups": [ ],
+                                    "summary": "4 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "4317894",
+                                    "firstName": "Jim",
+                                    "lastName": "Gordon",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/RQQVFVRBVQ2NOCBD.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4bbef9e298f495212aefd163-3"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4baeab7ff964a5200acd3be3",
+                            "name": "The Gingerman",
+                            "contact": {
+                                "phone": "+35351879522",
+                                "formattedPhone": "+353 51 879 522"
+                            },
+                            "location": {
+                                "address": "Arundell Ln",
+                                "lat": 52.260599620327554,
+                                "lng": -7.111254930496216,
+                                "distance": 3627,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Arundell Ln",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 123,
+                                "usersCount": 94,
+                                "tipCount": 5
+                            },
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "rating": 7,
+                            "ratingSignals": 11,
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 5,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4cd7f91251fc8cfa9ad0e65d",
+                                "createdAt": 1289222418,
+                                "text": "Check out the steak sandwich. Tasty !",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4cd7f91251fc8cfa9ad0e65d",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 2
+                                },
+                                "user": {
+                                    "id": "330823",
+                                    "firstName": "Derek",
+                                    "lastName": "T",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/50DXPG045N24OYLC.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4baeab7ff964a5200acd3be3-4"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "501adb7febca4aae856e9e3d",
+                            "name": "Oskars",
+                            "contact": {
+                                "phone": "+35351855057",
+                                "formattedPhone": "+353 51 855 057",
+                                "twitter": "oskarswaterford"
+                            },
+                            "location": {
+                                "address": "Ballinakill Shopping Centre",
+                                "crossStreet": "Dunmore Rd",
+                                "lat": 52.24098022252434,
+                                "lng": -7.0672667026519775,
+                                "distance": 1480,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Ballinakill Shopping Centre (Dunmore Rd)",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11d941735",
+                                    "name": "Sports Bar",
+                                    "pluralName": "Sports Bars",
+                                    "shortName": "Sports Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 64,
+                                "usersCount": 32,
+                                "tipCount": 3
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 2,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "51e44a3b498e5bd4fc289ea0",
+                                "createdAt": 1373915707,
+                                "text": "Cool range of craft beers available.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/51e44a3b498e5bd4fc289ea0",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2209230",
+                                    "firstName": "Mícheál",
+                                    "lastName": "Ó Foghlú",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/PYJ4TPHNVBVVO4P0.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-501adb7febca4aae856e9e3d-5"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4beec6222c082d7f4ed53042",
+                            "name": "Jack Meades",
+                            "contact": {
+                                "phone": "+35351850950",
+                                "formattedPhone": "+353 51 850 950"
+                            },
+                            "location": {
+                                "address": "Dunmore Rd.",
+                                "lat": 52.23593280140797,
+                                "lng": -7.034497349161669,
+                                "distance": 2576,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Dunmore Rd.",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 81,
+                                "usersCount": 62,
+                                "tipCount": 3
+                            },
+                            "url": "http://jackmeades.com",
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "rating": 6.8,
+                            "ratingSignals": 10,
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 3,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "53334cd5498ecf1f7c1a2524",
+                                "createdAt": 1395870933,
+                                "text": "Great small pub, good food and atmosphere",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/53334cd5498ecf1f7c1a2524",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "79626801",
+                                    "firstName": "Bruiser",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/blank_boy.png",
+                                        "default": true
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4beec6222c082d7f4ed53042-6"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b980c18f964a520ac2835e3",
+                            "name": "Kazbar",
+                            "contact": {
+                                "phone": "+35351843730",
+                                "formattedPhone": "+353 51 843 730",
+                                "twitter": "kazbar1"
+                            },
+                            "location": {
+                                "address": "57 John St",
+                                "lat": 52.258119,
+                                "lng": -7.111553,
+                                "distance": 3596,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "57 John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 474,
+                                "usersCount": 122,
+                                "tipCount": 5
+                            },
+                            "url": "http://www.kazbar.ie",
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "rating": 6.2,
+                            "ratingSignals": 11,
+                            "hours": {
+                                "status": "Open until 2:00am",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 8,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4c72850157b6a14394a2c5cc",
+                                "createdAt": 1282573569,
+                                "text": "Could do with opening the Wi-Fi for customers to use!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c72850157b6a14394a2c5cc",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [ ],
+                                    "summary": "2 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 2
+                                },
+                                "user": {
+                                    "id": "1775042",
+                                    "firstName": "John",
+                                    "lastName": "O connor",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/EYICI3FELVBRC2QZ.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4b980c18f964a520ac2835e3-7"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4d34b832f8c9224bf09ac5d2",
+                            "name": "Katty Barry's",
+                            "contact": {
+                                "phone": "+35351855095",
+                                "formattedPhone": "+353 51 855 095"
+                            },
+                            "location": {
+                                "address": "Mall Ln",
+                                "lat": 52.25977180049175,
+                                "lng": -7.105320004861127,
+                                "distance": 3212,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Mall Ln",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11d941735",
+                                    "name": "Sports Bar",
+                                    "pluralName": "Sports Bars",
+                                    "shortName": "Sports Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/sportsbar_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 48,
+                                "usersCount": 15,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 2,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4f3fca85e4b04da19f702ad8",
+                                "createdAt": 1329580677,
+                                "text": "@MRSC16 match venue! #MUMHAABÚ",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4f3fca85e4b04da19f702ad8",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "1453818",
+                                    "firstName": "Peadar",
+                                    "lastName": "de Blúit",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs2.4sqi.net/img/user/",
+                                        "suffix": "/R1PEWXWQQXNGHY3B.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4d34b832f8c9224bf09ac5d2-8"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4bcef39c68f976b0dcbf6683",
+                            "name": "Becketts Bar & Restaurant",
+                            "contact": {
+                                "phone": "+35351873082",
+                                "formattedPhone": "+353 51 873 082"
+                            },
+                            "location": {
+                                "address": "Dunmore Rd, Ballygunner",
+                                "lat": 52.23639736270917,
+                                "lng": -7.059606745673091,
+                                "distance": 1889,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Dunmore Rd, Ballygunner",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d155941735",
+                                    "name": "Gastropub",
+                                    "pluralName": "Gastropubs",
+                                    "shortName": "Gastropub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/gastropub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 84,
+                                "usersCount": 46,
+                                "tipCount": 3
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 4,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4bd0197070c603bb1dc298b4",
+                                "createdAt": 1271929200,
+                                "text": "Free Wifi here!!! Try the sourdough baguette!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4bd0197070c603bb1dc298b4",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [ ],
+                                    "summary": "2 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "981924",
+                                    "firstName": "Barry",
+                                    "lastName": "Mc Guinness",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/44BTRUHSDQPX2DTQ.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4bcef39c68f976b0dcbf6683-9"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c4a294e9c8d2d7f28112169",
+                            "name": "The Woodman Bar",
+                            "contact": {
+                                "phone": "+35351858130",
+                                "formattedPhone": "+353 51 858 130"
+                            },
+                            "location": {
+                                "address": "43 John St",
+                                "lat": 52.257099372818985,
+                                "lng": -7.111308574676514,
+                                "distance": 3564,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "43 John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 55,
+                                "usersCount": 28,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 3,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "53c0257b498e2907999a651e",
+                                "createdAt": 1405101435,
+                                "text": "Great pint of Guinness.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/53c0257b498e2907999a651e",
+                                "photo": {
+                                    "id": "53c0257d498e1042d4f51162",
+                                    "createdAt": 1405101437,
+                                    "source": {
+                                        "name": "foursquare for iPhone",
+                                        "url": "https://foursquare.com/download/#/iphone"
+                                    },
+                                    "prefix": "https://irs2.4sqi.net/img/general/",
+                                    "suffix": "/53912075_WOOXkdjhIVOW6KSz-oTqLFFcdCZ28FgSND-Gei5oWE0.jpg",
+                                    "width": 720,
+                                    "height": 960
+                                },
+                                "photourl": "https://irs2.4sqi.net/img/general/original/53912075_WOOXkdjhIVOW6KSz-oTqLFFcdCZ28FgSND-Gei5oWE0.jpg",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "53912075",
+                                    "firstName": "Oisin",
+                                    "lastName": "O'Reilly",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/XQCI3JHK3QWRYLL0.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4c4a294e9c8d2d7f28112169-10"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4bd35e99a8b3a593edd3695f",
+                            "name": "Uluru Outback Bar & Restaurant",
+                            "contact": {
+                                "phone": "+35351855333",
+                                "formattedPhone": "+353 51 855 333"
+                            },
+                            "location": {
+                                "address": "Dunmore Rd",
+                                "lat": 52.247262,
+                                "lng": -7.084702,
+                                "distance": 1856,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Dunmore Rd",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d169941735",
+                                    "name": "Australian Restaurant",
+                                    "pluralName": "Australian Restaurants",
+                                    "shortName": "Australian",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/australian_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 257,
+                                "usersCount": 86,
+                                "tipCount": 4
+                            },
+                            "url": "http://www.uluru.ie",
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 4,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4c7e4a55d598a093993ec562",
+                                "createdAt": 1283344981,
+                                "text": "Lunch time grub isn't bad. Although it's a bit of a wait for a panini to be made up.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4c7e4a55d598a093993ec562",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [ ],
+                                    "summary": "2 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "330823",
+                                    "firstName": "Derek",
+                                    "lastName": "T",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/50DXPG045N24OYLC.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4bd35e99a8b3a593edd3695f-11"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4be5f58f2457a5938949ac15",
+                            "name": "Harvey's Bar",
+                            "contact": {
+                                "phone": "+35351877811",
+                                "formattedPhone": "+353 51 877 811"
+                            },
+                            "location": {
+                                "address": "25 Manor St",
+                                "lat": 52.2554259,
+                                "lng": -7.113036,
+                                "distance": 3665,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "25 Manor St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 306,
+                                "usersCount": 56,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "hours": {
+                                "isOpen": false
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 9,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "52b24b02498ed2f1dda4f2bc",
+                                "createdAt": 1387416322,
+                                "text": "Reopened under new ownership as of 13/12/13",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/52b24b02498ed2f1dda4f2bc",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "44075157",
+                                    "firstName": "Rue",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/DBMOXTF20F405T2E.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4be5f58f2457a5938949ac15-12"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ccc2c933e339c74868d133c",
+                            "name": "Raglan Road",
+                            "contact": {
+                                "phone": "+35351381324",
+                                "formattedPhone": "+353 51 381 324"
+                            },
+                            "location": {
+                                "address": "Market St",
+                                "lat": 52.16119169407351,
+                                "lng": -7.151885032653809,
+                                "distance": 12047,
+                                "cc": "IE",
+                                "city": "Tramore",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Market St",
+                                    "Tramore",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 94,
+                                "usersCount": 38,
+                                "tipCount": 6
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 9,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4d1f5ba15acaa35d0547bf35",
+                                "createdAt": 1293900705,
+                                "text": "Try the seafood chowder. Best I've had in a long time.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d1f5ba15acaa35d0547bf35",
+                                "likes": {
+                                    "count": 2,
+                                    "groups": [ ],
+                                    "summary": "2 likes"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "88014",
+                                    "firstName": "Gavan",
+                                    "lastName": "Drohan",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/Q4V3QCAG5XQDNHN2.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4ccc2c933e339c74868d133c-13"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e275bfbd4c0e361d9d38d96",
+                            "name": "Roches Bar",
+                            "contact": {
+                                "phone": "+35351389188",
+                                "formattedPhone": "+353 51 389 188",
+                                "twitter": "rochesbar"
+                            },
+                            "location": {
+                                "address": "Quay Rd.",
+                                "lat": 52.22126013034499,
+                                "lng": -6.933660507202148,
+                                "distance": 9284,
+                                "cc": "IE",
+                                "city": "Duncannon",
+                                "state": "Co Wexford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Quay Rd.",
+                                    "Duncannon",
+                                    "Co Wexford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 36,
+                                "usersCount": 24,
+                                "tipCount": 2
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 5,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "517c3918e4b0514e81e0f295",
+                                "createdAt": 1367095576,
+                                "text": "Now stocking a selection of Irish craft beer.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/517c3918e4b0514e81e0f295",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "4458695",
+                                    "firstName": "Laura",
+                                    "lastName": "W",
+                                    "gender": "female",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/XE12ZGBEMURYTBV3.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4e275bfbd4c0e361d9d38d96-14"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c4a2690bad7a593343df6a9",
+                            "name": "The Foundry",
+                            "contact": {
+                                "phone": "+35351854727",
+                                "formattedPhone": "+353 51 854 727",
+                                "twitter": "thefoundrywd"
+                            },
+                            "location": {
+                                "address": "John St",
+                                "lat": 52.25727012300923,
+                                "lng": -7.111265659332275,
+                                "distance": 3564,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11f941735",
+                                    "name": "Nightclub",
+                                    "pluralName": "Nightclubs",
+                                    "shortName": "Nightclub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/nightclub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 167,
+                                "usersCount": 56,
+                                "tipCount": 2
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "hours": {
+                                "status": "Closed until 11:00pm",
+                                "isOpen": false
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 3,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4d795267b39b2c0f2179e290",
+                                "createdAt": 1299796583,
+                                "text": "Opening on Monday 14th March 2011. Ruby's used to be here",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d795267b39b2c0f2179e290",
+                                "likes": {
+                                    "count": 1,
+                                    "groups": [ ],
+                                    "summary": "1 like"
+                                },
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "1523725",
+                                    "firstName": "Rue",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs2.4sqi.net/img/user/",
+                                        "suffix": "/1523725-UIES434ZXDAKUHQT.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4c4a2690bad7a593343df6a9-15"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4c17a0a730d30f472fc836a9",
+                            "name": "The Munster Bar",
+                            "contact": {
+                                "phone": "+35351874656",
+                                "formattedPhone": "+353 51 874 656"
+                            },
+                            "location": {
+                                "address": "Bailey's New St",
+                                "lat": 52.259805,
+                                "lng": -7.106342,
+                                "distance": 3281,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Bailey's New St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 132,
+                                "usersCount": 85,
+                                "tipCount": 4
+                            },
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 10,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "5400d2de498ef7881171050a",
+                                "createdAt": 1409340126,
+                                "text": "Solomillo de Ternera, Buen Curry.",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5400d2de498ef7881171050a",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "15188556",
+                                    "firstName": "Ricard",
+                                    "lastName": "Calvo",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs2.4sqi.net/img/user/",
+                                        "suffix": "/CWFWN3JPBE0TSIQW.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4c17a0a730d30f472fc836a9-16"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4bbe46dc53e995210c052da9",
+                            "name": "Phil Grimes",
+                            "contact": {
+                                "phone": "+35351875759",
+                                "formattedPhone": "+353 51 875 759"
+                            },
+                            "location": {
+                                "address": "60 Johnstown",
+                                "lat": 52.25525284620337,
+                                "lng": -7.110173173052912,
+                                "distance": 3469,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "60 Johnstown",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 55,
+                                "usersCount": 26,
+                                "tipCount": 0
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "referralId": "e-4-4bbe46dc53e995210c052da9-17"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4b9c0e8df964a520834536e3",
+                            "name": "Henry Downes",
+                            "contact": {
+                                "phone": "+35351874118",
+                                "formattedPhone": "+353 51 874 118"
+                            },
+                            "location": {
+                                "address": "10 Thomas St.",
+                                "lat": 52.2621683,
+                                "lng": -7.117417,
+                                "distance": 4075,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "10 Thomas St.",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 99,
+                                "usersCount": 45,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 1,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4b9c142e70c603bb785494b4",
+                                "createdAt": 1268519982,
+                                "text": "Ask john the owner for a boot and see what happens",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4b9c142e70c603bb785494b4",
+                                "logView": true,
+                                "todo": {
+                                    "count": 1
+                                },
+                                "user": {
+                                    "id": "457600",
+                                    "firstName": "Conor",
+                                    "lastName": "Ryan",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/F2U40VECTBE53Y25.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4b9c0e8df964a520834536e3-18"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "5032d7fbe4b0e414aa49dd69",
+                            "name": "The Mansion House",
+                            "contact": {
+                                "phone": "+35351857574",
+                                "formattedPhone": "+353 51 857 574"
+                            },
+                            "location": {
+                                "address": "39 Johnstown",
+                                "lat": 52.25430160300092,
+                                "lng": -7.109313011169434,
+                                "distance": 3406,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "39 Johnstown",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 30,
+                                "usersCount": 17,
+                                "tipCount": 1
+                            },
+                            "url": "http://www.pubsdirect.ie/themansionhouse",
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "hours": {
+                                "status": "Open until 1:00am",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 3,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "5298cdb011d2c6588b881b54",
+                                "createdAt": 1385745840,
+                                "text": "Great place for food ;)",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5298cdb011d2c6588b881b54",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "70327988",
+                                    "firstName": "Anita",
+                                    "lastName": "Krupová",
+                                    "gender": "female",
+                                    "photo": {
+                                        "prefix": "https://irs3.4sqi.net/img/user/",
+                                        "suffix": "/KXNRFL5YRTMXUTLY.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-5032d7fbe4b0e414aa49dd69-19"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4ceefc944cd4236a1255b063",
+                            "name": "The Front Lounge",
+                            "contact": {
+                                "phone": "+35351303550",
+                                "formattedPhone": "+353 51 303 550"
+                            },
+                            "location": {
+                                "address": "38 John St",
+                                "lat": 52.25688921783626,
+                                "lng": -7.1109652519226065,
+                                "distance": 3538,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "38 John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 34,
+                                "usersCount": 27,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 2,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4d571f00fb65236a0c9d0eb4",
+                                "createdAt": 1297555200,
+                                "text": "the music is way too loud, great bar otherwise though",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4d571f00fb65236a0c9d0eb4",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "2424814",
+                                    "firstName": "phil",
+                                    "lastName": "brookes",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/4TNUDEKOLPFK3R13.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4ceefc944cd4236a1255b063-20"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4e31c33752b131dcebb10c9f",
+                            "name": "Murphy's Bar",
+                            "contact": {
+                                "phone": "+35351852006",
+                                "formattedPhone": "+353 51 852 006"
+                            },
+                            "location": {
+                                "address": "The Quay",
+                                "lat": 52.263379657611395,
+                                "lng": -7.117139347762711,
+                                "distance": 4092,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "The Quay",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 40,
+                                "usersCount": 23,
+                                "tipCount": 0
+                            },
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "hours": {
+                                "status": "Open until 11:30pm",
+                                "isOpen": true
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "referralId": "e-4-4e31c33752b131dcebb10c9f-21"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4dd7b60bd1647fcf3e5080cb",
+                            "name": "The Thatch Pub",
+                            "contact": {
+                                "phone": "+35351872876",
+                                "formattedPhone": "+353 51 872 876"
+                            },
+                            "location": {
+                                "address": "Grannagh",
+                                "lat": 52.281019790960976,
+                                "lng": -7.161205377702219,
+                                "distance": 7590,
+                                "cc": "IE",
+                                "city": "Kilmacow",
+                                "state": "Co Kilkenny",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Grannagh",
+                                    "Kilmacow",
+                                    "Co Kilkenny",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 45,
+                                "usersCount": 22,
+                                "tipCount": 0
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 1,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "referralId": "e-4-4dd7b60bd1647fcf3e5080cb-22"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "504fa177e4b0ba92c25f61dc",
+                            "name": "Sinnotts",
+                            "contact": {
+                                "phone": "+35351854727",
+                                "formattedPhone": "+353 51 854 727"
+                            },
+                            "location": {
+                                "address": "John St",
+                                "lat": 52.25704683416665,
+                                "lng": -7.111598253250122,
+                                "distance": 3583,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "John St",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d1e5931735",
+                                    "name": "Music Venue",
+                                    "pluralName": "Music Venues",
+                                    "shortName": "Music Venue",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/arts_entertainment/musicvenue_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 64,
+                                "usersCount": 41,
+                                "tipCount": 2
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "rating": 5.4,
+                            "ratingSignals": 8,
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "5222a76111d28ee0ad65efd5",
+                                "createdAt": 1378002785,
+                                "text": "Cool, una noche divertida de baile",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/5222a76111d28ee0ad65efd5",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "58697400",
+                                    "firstName": "Alex",
+                                    "lastName": "Gomez",
+                                    "gender": "none",
+                                    "photo": {
+                                        "prefix": "https://irs2.4sqi.net/img/user/",
+                                        "suffix": "/4LIKE53QTWUCQ3ZJ.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-504fa177e4b0ba92c25f61dc-23"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4dd28505d22d67839c5d5496",
+                            "name": "Neville's",
+                            "contact": {
+                                "phone": "+35351397160",
+                                "formattedPhone": "+353 51 397 160"
+                            },
+                            "location": {
+                                "address": "Fethard-on-Sea",
+                                "lat": 52.19085566448336,
+                                "lng": -6.839335028608,
+                                "distance": 16539,
+                                "cc": "IE",
+                                "city": "Co Wexford",
+                                "state": "Co Wexford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Fethard-on-Sea",
+                                    "Co Wexford",
+                                    "Co Wexford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d155941735",
+                                    "name": "Gastropub",
+                                    "pluralName": "Gastropubs",
+                                    "shortName": "Gastropub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/food/gastropub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 35,
+                                "usersCount": 23,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 3,
+                                "message": "Expensive",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 2,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "tips": [
+                            {
+                                "id": "4e2086f4d4c0d32590e56e5f",
+                                "createdAt": 1310754548,
+                                "text": "Really good food and reasonably priced. Fish and chips excellent",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/4e2086f4d4c0d32590e56e5f",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "7394047",
+                                    "firstName": "Claudine",
+                                    "lastName": "McGonigle",
+                                    "gender": "female",
+                                    "photo": {
+                                        "prefix": "https://irs1.4sqi.net/img/user/",
+                                        "suffix": "/TVYGI5SMMAYHOS30.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4dd28505d22d67839c5d5496-24"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4d022aff3fd4224ba348b577",
+                            "name": "Holy Cross Pub",
+                            "contact": {
+                                "phone": "+35351353087",
+                                "formattedPhone": "+353 51 353 087"
+                            },
+                            "location": {
+                                "address": "Butlerstown",
+                                "crossStreet": "Cork Rd.",
+                                "lat": 52.23875340894905,
+                                "lng": -7.17860871825668,
+                                "distance": 8289,
+                                "cc": "IE",
+                                "city": "Waterford",
+                                "state": "Co Waterford",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Butlerstown (Cork Rd.)",
+                                    "Waterford",
+                                    "Co Waterford",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d116941735",
+                                    "name": "Bar",
+                                    "pluralName": "Bars",
+                                    "shortName": "Bar",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": false,
+                            "stats": {
+                                "checkinsCount": 53,
+                                "usersCount": 26,
+                                "tipCount": 0
+                            },
+                            "price": {
+                                "tier": 2,
+                                "message": "Moderate",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 1,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            }
+                        },
+                        "referralId": "e-4-4d022aff3fd4224ba348b577-25"
+                    },
+                    {
+                        "reasons": {
+                            "count": 0,
+                            "items": [
+                                {
+                                    "summary": "This spot is popular",
+                                    "type": "general",
+                                    "reasonName": "globalInteractionReason"
+                                }
+                            ]
+                        },
+                        "venue": {
+                            "id": "4d97c000a2c6548151cde153",
+                            "name": "Mother McHughs",
+                            "contact": {
+                                "phone": "+35351390303",
+                                "formattedPhone": "+353 51 390 303"
+                            },
+                            "location": {
+                                "address": "Fenor",
+                                "lat": 52.16122557949499,
+                                "lng": -7.225498820856279,
+                                "distance": 15286,
+                                "cc": "IE",
+                                "country": "Ireland",
+                                "formattedAddress": [
+                                    "Fenor",
+                                    "",
+                                    "Ireland"
+                                ]
+                            },
+                            "categories": [
+                                {
+                                    "id": "4bf58dd8d48988d11b941735",
+                                    "name": "Pub",
+                                    "pluralName": "Pubs",
+                                    "shortName": "Pub",
+                                    "icon": {
+                                        "prefix": "https://ss1.4sqi.net/img/categories_v2/nightlife/pub_",
+                                        "suffix": ".png"
+                                    },
+                                    "primary": true
+                                }
+                            ],
+                            "verified": true,
+                            "stats": {
+                                "checkinsCount": 14,
+                                "usersCount": 8,
+                                "tipCount": 1
+                            },
+                            "price": {
+                                "tier": 1,
+                                "message": "Cheap",
+                                "currency": "€"
+                            },
+                            "specials": {
+                                "count": 0,
+                                "items": [ ]
+                            },
+                            "photos": {
+                                "count": 0,
+                                "groups": [ ]
+                            },
+                            "hereNow": {
+                                "count": 0,
+                                "summary": "0 people here",
+                                "groups": [ ]
+                            },
+                            "venuePage": {
+                                "id": "47933056"
+                            },
+                            "storeId": ""
+                        },
+                        "tips": [
+                            {
+                                "id": "538bbfa211d2e65b9c2f5640",
+                                "createdAt": 1401667490,
+                                "text": "One of the world's best bars! Great banter and when there's music on its a goto place!",
+                                "type": "user",
+                                "canonicalUrl": "https://foursquare.com/item/538bbfa211d2e65b9c2f5640",
+                                "logView": true,
+                                "todo": {
+                                    "count": 0
+                                },
+                                "user": {
+                                    "id": "89326",
+                                    "firstName": "Neil",
+                                    "lastName": "Curran",
+                                    "gender": "male",
+                                    "photo": {
+                                        "prefix": "https://irs0.4sqi.net/img/user/",
+                                        "suffix": "/1EAOOBSXLDCWOZTT.jpg"
+                                    }
+                                }
+                            }
+                        ],
+                        "referralId": "e-4-4d97c000a2c6548151cde153-26"
+                    }
+                ]
+            }
+        ]
+    }
+}
